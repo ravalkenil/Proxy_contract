@@ -1,0 +1,26 @@
+{
+  "manifestVersion": "3.2",
+  "proxies": [],
+  "impls": {
+    "beb62be386cd93e3215c01102c4e8a308abc166b774158d6dd23b6ca1c8debca": {
+      "address": "0x4f66Cf6FEBaf7D9585C6A7FC60cE2BC470A83803",
+      "txHash": "0x778d39080b91aed4698a008037befb17d27592f3f6f2d346104b56d34f25ae2c",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [
+          {
+            "contract": "NUM1",
+            "label": "num1",
+            "type": "t_uint256",
+            "src": "../project:/contracts/NUM1.sol:6"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    }
+  }
+}
